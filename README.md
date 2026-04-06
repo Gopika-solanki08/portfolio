@@ -22,7 +22,6 @@ Interactive memory-based browser game with dynamic sequences.
 
 🛠️ Tech Stack Frontend HTML5 CSS3 JavaScript React.js (if used) Backend (if connected) Node.js Express.js Database (if used) MongoDB
  
-🔗 live Demo Link https://gopika-solanki08.github.io/portfolio/
 
 ⚙️ Installation & Setup
 

@@ -37,6 +37,8 @@ npm install
 Run the project
 npm start
 
+🔗 Live Demo : https://beautiful-axolotl-6fd98e.netlify.app/
+
 📩 Contact 
 
 Email: gopikasolanki6@example.com 
